@@ -2,3 +2,8 @@ earthengine-api
 geopandas
 rasterio
 folium
+flask
+plotly
+matplotlib
+scikit-learn 
+tensorflow
